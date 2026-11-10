@@ -1,2 +1,8 @@
-# circuit-qiu-6th-markdown
-邱关源《电路》第6版 全书 Markdown（AI 可读）+ 原版 PDF
+# 电路（第6版）全书 Markdown
+
+邱关源《电路》第 6 版全书 545 页，由扫描版 PDF 逐页转成 Markdown，供 AI 直接阅读：正文按阅读顺序、公式为 LaTeX、电路图与插图从原页裁切后嵌回原位，每页末尾附该页整页原图以便对照。
+
+- `电路-第6版-邱关源.md`：全书 Markdown（545 页，715 张裁图）
+- Release **v1.0** 附件：
+  - `电路_第6版_邱关源_原版.pdf`：原版扫描 PDF
+  - `电路-第6版-Markdown-完整包.zip`：Markdown + 全部裁图 + 545 张整页原图
